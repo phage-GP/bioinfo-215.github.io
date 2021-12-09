@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Biofinfo-215 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/phage-GP/bioinfo-215.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这是我们实验室的网站，主要由高年级的同学分享一些学习经验给师弟师妹。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<center>书籍可以拓展我们作为个体的经验，</center>
+<center>让我们接轨于人类经验的总和。</center>
+<center>无论是过去的人、现在的人，还是将来的人，</center>
+<center>我们都生活在人类总体的经验故事中，</center>
+<center>我们都能在他人的故事中获得教诲。</center>
+<center>读书在某种意义上，</center>
+<center>正是站在人类总体经验的基础上来获得安身立命的伟大信念</center>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phage-GP/bioinfo-215.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                                                                        ----罗翔
