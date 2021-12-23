@@ -29,6 +29,10 @@
 
 + 《R语言实战 第2版》
 
+可视化
+
++ 《R语言数据可视化之美：专业图表绘制指南（增强版）》
+
 ## Linux 🐧
 
 + [《Linux就该这么学》](https://www.linuxprobe.com/basic-learning-00.html)
