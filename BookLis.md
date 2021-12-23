@@ -1,4 +1,4 @@
-## Python
+## Python 🐍
 入门
 
 + [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
@@ -19,17 +19,17 @@
 + [《动手学深度学习》](https://zh.d2l.ai/)
 
 
-## R
+## R 👨🏻‍💻
 
 入门
 
 + 《R语言实战 第2版》
 
-## Linux
+## Linux 🐧
 
 + [《Linux就该这么学》](https://www.linuxprobe.com/basic-learning-00.html)
 
-## 统计
+## 统计 📈
 
 入门
 
