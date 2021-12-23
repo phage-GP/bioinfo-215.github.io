@@ -22,3 +22,9 @@
 ## Linux
 
 + [《Linux就该这么学》](https://www.linuxprobe.com/basic-learning-00.html)
+
+## 统计
+
+入门
+
++ 《白话统计》
