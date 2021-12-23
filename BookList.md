@@ -12,6 +12,7 @@
 
 + 《阿里云天池大赛赛题解析——机器学习篇》
 + 《机器学习：软件工程方法与实现》
++ [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 深度学习
 
