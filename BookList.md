@@ -7,6 +7,8 @@
 数据分析
 
 + 《Python数据科学手册》
++ [《利用Python进行数据分析·第2版》](https://www.jianshu.com/p/04d180d90a3f)
+
 
 机器学习
 
