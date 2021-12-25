@@ -71,6 +71,12 @@
 
 + 《写给大家看的PPT设计书（第2版）》
 
+## Online Blog
+
++ [The Unofficial Google Data Science Blog](https://www.unofficialgoogledatascience.com/)
++ [towardsdatascience](https://towardsdatascience.com/)
++ [emoji-zh](https://www.emojiall.com/zh-hans)
+
 ## Others 📚
 
 + 《呐喊》
