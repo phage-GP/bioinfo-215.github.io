@@ -53,6 +53,7 @@
 ## Git 🏚
 
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
++ [gitmoji](https://gitmoji.dev/)
 
 
 
@@ -71,7 +72,7 @@
 
 + 《写给大家看的PPT设计书（第2版）》
 
-## Online Blog
+## Online Blog 📃
 
 + [The Unofficial Google Data Science Blog](https://www.unofficialgoogledatascience.com/)
 + [towardsdatascience](https://towardsdatascience.com/)
